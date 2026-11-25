@@ -4,7 +4,7 @@
 Find which factors affect food delivery time.
 
 ## Dataset
-45,000+ food delivery orders from Indian cities (Kaggle).
+45,000+ food delivery orders from Indian cities (Kaggle link)(https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset)
 Columns include city, traffic density, weather, festival,
 vehicle type and delivery partner rating.
 
@@ -23,11 +23,11 @@ Microsoft Excel: Data Cleaning, Pivot Tables, PivotCharts
 4. Cloudy/Fog: ~28.9 min vs Sunny: 21.9 min
 5. Vehicle type has a small effect (~3 min)
 6. Partners rated 4.5+ deliver in ~24-25 min vs ~35 min
-   for those below 4.5 (correlation, not causation)
+   for lower rated(correlation, not causation)
 
 ## Recommendation
 Add more delivery partners on festival days and
 in Semi-Urban areas.
 
-## Files
-- food_delivery_analysis.xlsx (pivot tables and charts)
+## ## Skills Demonstrated
+Data Cleaning, Pivot Tables, PivotCharts, Insight Writing
