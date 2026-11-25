@@ -15,8 +15,12 @@ Microsoft Excel: Data Cleaning, Pivot Tables, PivotCharts
 - Removed text prefixes ("conditions ", "(min) ")
 - Converted Time_taken to numeric
 - Excluded NaN and invalid values (rating of 6) from analysis
-##charts
-[Average delivery time by city type] (chart1.png)
+  
+## charts
+![ Average delivery time by city type ](chart1.png)
+![ Average delivery time by weather conditions ](chart2.png)
+![ Average delivery time by vehcle type ](chart3.png)
+
 
 ## Key Findings (average delivery time)
 1. Semi-Urban: 49.7 min vs Urban: 23.0 min (~2x slower)
